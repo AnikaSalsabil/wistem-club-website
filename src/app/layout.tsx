@@ -23,7 +23,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <a href="#gallery" className="hover:text-purple-600">Gallery</a>
               <a href="#team" className="hover:text-purple-600">About Team</a>
               <a href="#sponsorship" className="hover:text-purple-600">Sponsorship</a>
-              <a href="#contact" className="hover:text-purple-600">Let's Contact</a>
+              <a href="#contact" className="hover:text-purple-600">Let&apos;s Contact</a>
             </nav>
           </div>
         </header>
