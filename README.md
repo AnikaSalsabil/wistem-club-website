@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# UOW WiSTEM Club Website
 
-## Getting Started
+Official website for the University of Wollongong Women in STEM (WiSTEM) Club.  
+Promoting opportunities, events, and community for women pursuing careers in Science, Technology, Engineering, and Mathematics.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Frontend**: Next.js 14 (App Router)
+- **Styling**: TailwindCSS
+- **Hosting**: Vercel
+- **Version Control**: GitHub
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🖥 Local Setup Instructions
 
-## Learn More
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/wistem-club-website.git
+   cd wistem-club-website
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. Install dependencies:
+    ```bash
+    npm install
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+3. Run the development server:
+    ```bash
+    npm run dev
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Open http://localhost:3000 to see the website.
+
+## 📂 Project Structure
+- /app: Contains all page and layout components
+- /public: Static assets (images, icons)
+- /styles: Global styling using TailwindCSS
+- /README.md: Project documentation
+
+## 🛠 Deployment
+- Deploy easily on Vercel.
+- Automatic GitHub integration available.
+
+## 🤝 Contribution Guide
+- Create a new branch: git checkout -b feature-branch-name
+- Make changes, then:
+
+    ```bash
+    git add .
+    git commit -m "Meaningful commit message"
+    git push origin feature-branch-name
+
+
+Open a Pull Request to main branch!
+
+## 📞 Contact
+Connect with us via Email, Instagram, Facebook, or LinkedIn (links provided in Contact section).
+uowwistem@gmail.com
+
+---
+
+Built with ❤️ by the UOW WiSTEM Club (WiSTech)
