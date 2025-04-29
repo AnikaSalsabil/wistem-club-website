@@ -62,4 +62,4 @@ uowwistem@gmail.com
 
 ---
 
-Built with ❤️ by the UOW WiSTEM Club (WiSTech)
+Built with ❤️ by the UOW WiSTEM Club (WiTech)
