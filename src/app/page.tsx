@@ -62,7 +62,7 @@ export default function Home() {
 
       {/* Contact Section */}
       <section id="contact" className="w-full text-center py-20">
-        <h3 className="text-3xl md:text-4xl font-bold text-pink-600 mb-4">LET’S CONTACT</h3>
+      <h3 className="text-3xl md:text-4xl font-bold text-pink-600 mb-4">LET&apos;S CONTACT</h3>
         <p className="text-gray-600 mb-8">Connect with opportunities</p>
         <div className="flex justify-center gap-8">
           <a href="mailto:uowwistem@gmail.com" aria-label="Email"><img src="/email-icon.svg" alt="Email" className="w-10" /></a>
