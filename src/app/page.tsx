@@ -68,7 +68,7 @@ export default function Home() {
           <a href="mailto:uowwistem@gmail.com" aria-label="Email"><img src="/email-icon.svg" alt="Email" className="w-10" /></a>
           <a href="https://www.instagram.com/uow_wistem/" aria-label="Instagram"><img src="/instagram-icon.png" alt="Instagram" className="w-10" /></a>
           <a href="https://www.facebook.com/UOWWiSTEM" aria-label="Facebook"><img src="/facebook-icon.png" alt="Facebook" className="w-10" /></a>
-          <a href="https://www.linkedin.com/company/uowwistem/" aria-label="LinkedIn"><img src="/linkedin-icon.png" alt="LinkedIn" className="w-10" /></a>
+          <a href="https://www.linkedin.com/company/uowwistem/" aria-label="LinkedIn"><img src="/linkedIn-icon.png" alt="LinkedIn" className="w-10" /></a>
         </div>
       </section>
     </div>
